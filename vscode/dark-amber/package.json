@@ -1,0 +1,21 @@
+{
+  "name": "phosphor-dark-amber",
+  "displayName": "Phosphor Dark Amber",
+  "description": "Terminal nostalgia for the modern eye.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Phosphor Dark Amber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Phosphor Dark Amber-color-theme.json"
+      }
+    ]
+  }
+}
